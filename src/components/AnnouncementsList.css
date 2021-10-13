@@ -1,0 +1,5 @@
+.announcement, .announcement:hover {
+    outline: none !important;
+    border-radius: 24px;
+    color: white;
+}
